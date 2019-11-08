@@ -1,0 +1,6 @@
+C:\Users\kbatra\source\repos\CookieExample\CookieExample\obj\Debug\CookieExample.csprojAssemblyReference.cache
+C:\Users\kbatra\source\repos\CookieExample\CookieExample\bin\Debug\CookieExample.exe.config
+C:\Users\kbatra\source\repos\CookieExample\CookieExample\bin\Debug\CookieExample.exe
+C:\Users\kbatra\source\repos\CookieExample\CookieExample\bin\Debug\CookieExample.pdb
+C:\Users\kbatra\source\repos\CookieExample\CookieExample\obj\Debug\CookieExample.exe
+C:\Users\kbatra\source\repos\CookieExample\CookieExample\obj\Debug\CookieExample.pdb
